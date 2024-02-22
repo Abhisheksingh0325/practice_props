@@ -1,0 +1,18 @@
+#card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(227, 123, 88);
+}
+
+#inner_card{
+    width: 40.2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(124, 222, 222);
+}
+#inner_card img {
+    height: 5.2rem;
+
+}
